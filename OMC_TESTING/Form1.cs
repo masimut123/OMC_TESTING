@@ -8,5 +8,10 @@ namespace OMC_TESTING
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            BackColor = Color.Red;
+        }
     }
 }

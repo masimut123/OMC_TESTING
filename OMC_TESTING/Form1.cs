@@ -13,5 +13,10 @@ namespace OMC_TESTING
         {
             BackColor = Color.Red;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            BackColor = Color.Blue;
+        }
     }
 }
